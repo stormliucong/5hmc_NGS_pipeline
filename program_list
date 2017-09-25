@@ -1,0 +1,9 @@
+trimmomatic
+bowtie2
+sort_sam
+mark_duplicates
+feature_count_promoter
+feature_count_genebody
+feature_count_bin-based
+feature_count_chr-based
+
