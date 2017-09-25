@@ -54,3 +54,5 @@ Make sure you need all codes and comments. Modify corresponding directory and fi
 1.	Run 1_bwa_align.pl
 2.	Run 2_Haplotyper.pl
 3.	Run 3_annotation.sh
+
+You can also run other GATK related programs.
