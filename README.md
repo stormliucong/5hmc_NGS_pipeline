@@ -9,3 +9,4 @@ Please control the parameter to change
 (3) Number of jobs submitted in the same time (program_running_PE150.sh)
 
 The detailed paramters for each step and corresponding shell scripts are stored in program_module.
+Ths script could be modified to process RNA-seq data and SNP calling. Using the module in RNA-seq and exome-seq.
