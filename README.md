@@ -1,4 +1,4 @@
-Script to run NGS analysis pipeline for 5hmc-seq.
+Script to run NGS analysis pipeline in a Linux server for 5hmc-seq.
 
 The program could trigger processing NGS samples from BCL raw format to processed count data parallelly.
 
